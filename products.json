@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":" orange flowers in clear glass vase",
+        "price": 159,
+        "image": "vase 1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" green-leaf plant in white vase",
+        "price": 90,
+        "image": "vase 2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Minimal wooden vase with greenery decoration",
+        "price": 170,
+        "image": "vase 3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" white ceramic vase",
+        "price": 90,
+        "image": "vase 4.jpg"
+    },
+    {
+        "id": 5,
+        "name":"  white vase with red flowers in it",
+        "price": 75,
+        "image": "vase 5.jpg"
+    },
+    {
+        "id": 3,
+        "name":" purple-petaled flower in gray vase",
+        "price": 99,
+        "image": "vase 6.jpg"
+    },
+    {
+        "id": 3,
+        "name":" white flowers in blue glass vase",
+        "price": 250,
+        "image": "vase 7.jpg"
+    },
+    {
+        "id": 3,
+        "name":" blue and black floral vase",
+        "price": 190,
+        "image": "vase 8.jpg"
+    } 
+]
